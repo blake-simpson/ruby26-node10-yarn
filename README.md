@@ -2,7 +2,7 @@
 
 https://cloud.docker.com/repository/docker/brsim/ruby26-node10-yarn
 
-Based on Alpine 3.10. Also contains bundler 1.17.3 for specific build purposes.
+Based on Alpine 3.10. Also contains bundler 2.0.2 for specific build purposes.
 
 Build: `docker build . -t ruby26-node10-yarn`
 
